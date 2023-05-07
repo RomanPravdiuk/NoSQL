@@ -1,0 +1,38 @@
+{
+    "_id" : ObjectId("63fa1171ea0d339a6a916b09"),
+    "People_name" : "Ivan",
+    "Salary" : NumberInt(1000),
+    "Date" : "1996.28.11",
+    "Order" : "2021.11.11",
+    "Clases_name" : [
+        "midd",
+        "sen"
+    ]
+}
+{
+    "_id" : ObjectId("63fa1171ea0d339a6a916b08"),
+    "People_name" : "Diana",
+    "Salary" : NumberInt(500),
+    "Date" : "1997.08.08",
+    "Order" : "2021.12.12",
+    "Clases_name" : "midd"
+}
+{
+    "_id" : ObjectId("63fa1171ea0d339a6a916b07"),
+    "People_name" : "Alex",
+    "Salary" : NumberInt(100),
+    "Date" : "1999.01.10",
+    "Order" : "2020.01.11",
+    "Clases_name" : [
+        "jun",
+        "midd"
+    ]
+}
+{
+    "_id" : ObjectId("63fa1171ea0d339a6a916b0a"),
+    "People_name" : "Dima",
+    "Salary" : NumberInt(2500),
+    "Date" : "2000.15.10",
+    "Order" : "2023.01.11",
+    "Clases_name" : "sen"
+}
